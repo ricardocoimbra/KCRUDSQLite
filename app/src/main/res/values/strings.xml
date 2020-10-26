@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KCRUDSQLite</string>
+    <string name="view">View</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="user_id">User Id</string>
+    <string name="user_name">User Name</string>
+    <string name="save">Save</string>
+    <string name="user_email">User Email</string>
+</resources>
